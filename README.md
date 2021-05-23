@@ -1,7 +1,7 @@
 # Machine Learning with Python   
 ## Machine Learning with Hands-On Examples (Udemy)
 
-What I learnt:   
+What I learned:   
 - Machine Learning Terminology
 - Evaluation Metrics
 - What are Classification vs Regression?
