@@ -1,5 +1,5 @@
 # Machine Learning with Python   
-## Machine Learning with Hands-On Examples (Udemy)
+## Machine Learning with Hands-On Examples (Udemy) - 23 May 2021
 
 What I learned:   
 - Machine Learning Terminology
